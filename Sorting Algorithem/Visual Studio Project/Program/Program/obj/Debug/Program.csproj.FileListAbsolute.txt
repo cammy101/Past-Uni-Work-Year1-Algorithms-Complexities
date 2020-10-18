@@ -1,0 +1,12 @@
+E:\Uni\Algorithems\Program\Program\bin\Debug\Program.exe.config
+E:\Uni\Algorithems\Program\Program\bin\Debug\Program.exe
+E:\Uni\Algorithems\Program\Program\bin\Debug\Program.pdb
+E:\Uni\Algorithems\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+E:\Uni\Algorithems\Program\Program\obj\Debug\Program.exe
+E:\Uni\Algorithems\Program\Program\obj\Debug\Program.pdb
+E:\Uni\Algorithems\Supporting Documents\Visual Studio Project\Program\Program\bin\Debug\Program.exe.config
+E:\Uni\Algorithems\Supporting Documents\Visual Studio Project\Program\Program\bin\Debug\Program.exe
+E:\Uni\Algorithems\Supporting Documents\Visual Studio Project\Program\Program\bin\Debug\Program.pdb
+E:\Uni\Algorithems\Supporting Documents\Visual Studio Project\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+E:\Uni\Algorithems\Supporting Documents\Visual Studio Project\Program\Program\obj\Debug\Program.exe
+E:\Uni\Algorithems\Supporting Documents\Visual Studio Project\Program\Program\obj\Debug\Program.pdb
